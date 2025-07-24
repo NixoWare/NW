@@ -2,6 +2,6 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/NixoWare/NW/refs/heads/main/Script/Source"))()
 if queue_on_teleport then 
 	queue_on_teleport([[
-		loadstring(game:HttpGet("https://raw.githubusercontent.com/NixoWare/NW/refs/heads/main/Script/Source"))()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/NixoWare/NW/refs/heads/main/Script/Loader"))()
 	]])
 end 
